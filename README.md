@@ -1,4 +1,4 @@
-# Carousel-effect_coverflow
+# Carousel-effect_coverflow ⭐⭐⭐⭐☆
 
 ![Banner](assets/image/cap/cap_swiper.png)
 <p align="center" style="color: white;">
