@@ -31,7 +31,7 @@
 ## <b> Funcionalidad</b>
 <p>Js libreria Swiper</p>
 <div>
-    <img align="right" src="assets/image/cap/cap_swiper.png" width="400"/>
+    <img align="right" src="assets/image/cap/cap_swiper.gif" width="450"/>
 </div>
 
 ```JS
