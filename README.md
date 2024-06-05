@@ -1,6 +1,6 @@
 # Carousel-effect_coverflow
 
-![Banner](image/gif/dev_web.PNG)
+![Banner](assets/image/cap/cap_swiper.png)
 <p align="center" style="color: white;">
     <img src="https://profile-counter.glitch.me/Juanes200122/count.svg" />
 </p>
@@ -31,7 +31,7 @@
 ## <b> Funcionalidad</b>
 <p>Js libreria Swiper</p>
 <div>
-    <img align="right" src="image/gif/swiper_gif.gif" width="400"/>
+    <img align="right" src="assets/image/cap/cap_swiper.png" width="400"/>
 </div>
 
 ```JS
